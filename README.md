@@ -1,4 +1,4 @@
-<center><h1> Hello, world!</h1></center>
+<center><h1><p style="font-color: red"> Hello, world!</p></h1></center>
 
 <p> My name is Jessica, and I'm just practicing some HTML code here so I can get better.
 <p><center><img src ="http://i1380.photobucket.com/albums/ah200/jyin978/1_zpsoy5ozhxm.jpg" width ="190" height ="190"></center>
