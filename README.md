@@ -1,37 +1,8 @@
 <h1> Hello, world!</h1>
 
-You can use the [editor on GitHub](https://github.com/jcat1504/practicestuff/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p> My name is Jessica, and I'm just practicing some HTML code here so I can get better.
+<p><img src ="http://i1380.photobucket.com/albums/ah200/jyin978/1_zpsoy5ozhxm.jpg" width ="260" height ="275" style = "float: left;" style ="vertical-align: baseline;"/>There are a lot of things I aspire to be. I aspire to become a better artist, a motivator, an engineer, an adventurer, and an all out good human being. I'm also a dog mom of two Yorkies, who drive me up the wall sometimes but I still love them.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jcat1504/practicestuff/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p> This is my journey on becoming a better developer. I aspire to become a full-stack dev with a good amount of skills and experience at hand. 
+  
+  
