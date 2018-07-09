@@ -1,5 +1,15 @@
-.main-text {
-    text-align: center;
-    padding: 10px;
-    margin: 10px;
+.red {
+    border: 4px solid red;
+}
+
+.yellow {
+    border: 4px solid yellow;
+}
+
+.text {
+    color: white;
+}
+
+.picture-style {
+    padding-left: 10%;
 }
